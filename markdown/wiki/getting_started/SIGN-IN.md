@@ -1,4 +1,4 @@
-# Signing in
+seanjaredamapat@gmail.com # Signing in
 PojavLauncher supports multiple types of accounts to sign in:  
 
 - Microsoft Accounts(*)
